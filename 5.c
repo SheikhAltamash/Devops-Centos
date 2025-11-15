@@ -146,4 +146,4 @@ Bring structure; evaluators love structured thinkers
 ✔ Help you practice confidence and fluency
 
 Just tell me:
-Do you want to practice a simulated GD now?
+Do you want to practice a simulated GD now? os this is the file i am changing for the git commitq
