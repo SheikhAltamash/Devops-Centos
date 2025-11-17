@@ -1,0 +1,11 @@
+
+               total        used        free      shared  buff/cache   available
+Mem:         1816900      318732     1433456       14060      229472     1498168
+Swap:        1048572           0     1048572
+Filesystem     1K-blocks    Used Available Use% Mounted on
+devtmpfs            4096       0      4096   0% /dev
+tmpfs             908448       0    908448   0% /dev/shm
+tmpfs             363380   14056    349324   4% /run
+/dev/sda2       81747972 2261756  79486216   3% /
+/dev/sda1        1038336  246520    791816  24% /boot
+tmpfs             181688       0    181688   0% /run/user/1000
